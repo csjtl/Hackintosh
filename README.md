@@ -20,7 +20,7 @@ CPU : i7 4790K
 
 机箱 : dell Opeiplex 7050
 
-Personal website：https://tl8517.com/category/system/hackintosh/
+Personal website：https://tl8517.com/categories/system/hackintosh/
 
 
 
